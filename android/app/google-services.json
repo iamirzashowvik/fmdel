@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498238946372",
+    "project_id": "fmdelivery-a411e",
+    "storage_bucket": "fmdelivery-a411e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498238946372:android:f133a77acf6582ce3c5011",
+        "android_client_info": {
+          "package_name": "com.fmdelivery.fmdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498238946372-7mevub6lnfgnc5n400sdrht8jl8lfs87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fmdelivery.fmdelivery",
+            "certificate_hash": "d6b20518f6e9393e199aa23da20e0bf0fc3062bb"
+          }
+        },
+        {
+          "client_id": "498238946372-427s4k51o8c4fhskmq9ae8337me4mfs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BU0C8IA7XO7UOJYpuwWzKOYCHvfqdTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498238946372-427s4k51o8c4fhskmq9ae8337me4mfs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
